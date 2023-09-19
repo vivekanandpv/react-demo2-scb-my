@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "firstName": "Ambrosi",
+    "lastName": "Helis",
+    "email": "ahelis0@shinystat.com",
+    "ipAddress": "194.234.33.32"
+  },
+  {
+    "id": 2,
+    "firstName": "Benn",
+    "lastName": "Bondy",
+    "email": "bbondy1@mozilla.com",
+    "ipAddress": "249.203.146.145"
+  },
+  {
+    "id": 3,
+    "firstName": "Aggie",
+    "lastName": "Kevern",
+    "email": "akevern2@whitehouse.gov",
+    "ipAddress": "73.231.7.228"
+  },
+  {
+    "id": 4,
+    "firstName": "Tasha",
+    "lastName": "Schuricke",
+    "email": "tschuricke3@flavors.me",
+    "ipAddress": "139.118.212.86"
+  },
+  {
+    "id": 5,
+    "firstName": "Adela",
+    "lastName": "Kimbly",
+    "email": "akimbly4@nydailynews.com",
+    "ipAddress": "197.223.167.156"
+  }
+]
